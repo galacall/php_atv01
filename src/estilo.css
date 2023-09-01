@@ -1,0 +1,21 @@
+body{
+    font-family: Tahoma;
+    margin: 10px;
+}
+
+.dnd{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2.dnd{
+    color: rgb(114, 20, 20);
+}
+
+.aop{
+    font-family: monospace;
+    font-size: large;
+}
+h2.aop{
+    font-size: xx-large;
+    color: rgb(172, 128, 19);
+}
